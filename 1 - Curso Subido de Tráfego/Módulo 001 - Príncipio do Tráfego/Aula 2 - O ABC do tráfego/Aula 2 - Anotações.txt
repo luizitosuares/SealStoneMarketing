@@ -1,0 +1,111 @@
+Conversão: O pessoal acha que conversão é só quando uma pessoa deixa o e-mail, efetua uma
+compra, mas não. Conversão é: a AÇÃO DESEJADA pelo gestor de tráfego no meu site. Então às
+vezes, conversão pode ser uma pessoa clicar no meu anúncio e cair numa página onde tem um
+vídeo meu, pode ser a realização de um cadastro na minha página de captura, pode ser uma
+compra no meu e-commerce. Enfim, qualquer ação desejada pelo gestor de tráfego dentro do
+meu site, página, etc.
+
+Lead: É um contato, quando alguém te dá a oportunidade de se comunicar com ela por algum
+canal. Pode ser e-mail, telefone, etc. Quando a pessoa vai na tua página, preenche o teu cadastro
+e deixa os dados dela lá pra ti, ela acaba de virar teu lead.
+
+CTA: Call To Action, ou em sua tradução literal, chamada para ação. É quando eu falo assim pra
+ti enquanto tô gravando um stories “cara, quer se cadastrar na minha aula? então arrasta pra
+cima (cta)”. Ou quando eu tenho aquele post no Facebook dizendo no final “quer se cadastrar,
+então clique no botão saiba mais (cta)”. “Assiste esse vídeo agora!”. “Veja o Curso Subido até o
+final, não pula nenhuma aula.” Isso são chamadas pra ação, é quando eu chamo, convido a
+pessoa a fazer alguma coisa.
+
+Ecommerce: acho que aqui muito mais pessoas já estão familiarizadas com esse conceito né? É
+uma loja online, onde tu tem um estoque de produtos e comercializa eles através de um site.
+
+
+Lançamento: é um método de venda de um produto. É quando eu abro e fecho o meu carrinho
+de vendas em um determinado período limitado de tempo. A Comunidade Sobral é vendida
+através de lançamentos. Existem vários tipos de lançamento:
+
+Afiliado: Hoje em dia a gente tem várias plataformas de venda na internet como por exemplo
+Hotmart, Monetizze, Eduzz. E eu recomendo a Hotmart sempre, os caras são meus parceiros
+demais! Essas plataformas permitem que tu se afilie a algum produto, o que isso significa na
+prática? Existe lá o produto emagreça sem parar, por exemplo. Aí o dono desse produto abre
+ele pra afiliação, que é uma permissão para que eu também divulgue e venda o produto dele em
+troca de uma comissão.
+
+Lançamento Semente: é quando eu faço uma aula e vendo no final dessa aula.
+
+Lançamento interno: é um lançamento onde eu tenho várias aulas, um exemplo é a
+Semana do Inglês, que é um evento que o Mairo organiza e é composto por 4 aulas + um
+pitch de venda no final. (CPL1, CPL2, CPL3...)
+
+Lançamento externo: é um evento também, só que aqui eu chamo outras pessoas do
+mercado pra me ajudarem a divulgar o lançamento.
+
+Lançamento Passariano: é um outro tipo de lançamento normalmente feito somente
+para tua base, que foca em uma lista já aquecida, ou seja, pessoas que estão conscientes
+do produto e da solução que precisam.
+
+Meteórico: É um lançamento pelo WhatsApp, vocês não vão ver eu falar dele porque
+não faço lançamentos usando essa estratégia.
+
+Ferramenta de email: Ferramenta que gerencia e dispara emails para leads (contatos).
+
+Ferramenta de página: Ferramenta que cria landing pages (páginas de captura de leads).
+
+Criativo: É o anúncio que eu tô divulgando. Vocês vão me ouvir muitas vezes eu falar “muda o
+criativo, faz um criativo novo..”. E criativo nada mais é que o vídeo, imagem, descrição, título que
+eu tô usando pra divulgar o meu ebook, a minha aula, o meu lançamento. Enfim, é a parte que
+as pessoas tem contato ali no anúncio. Por exemplo se eu tenho duas imagens iguais, só que em
+cada uma tenho um texto diferente, então eu tenho dois criativos. Criativo não é só a imagem ou
+vídeo, é a junção de todos os elementos que tu usa pra te comunicar com o teu alvo no anúncio.
+
+SEO: Search Engine Optimization, ou na sua tradução, otimização para mecanismos de busca. É
+quando tu otimiza teu site para ele ser facilmente encontrado quando alguém pesquisar por ele
+(galera da Agência Mestre, Fábio Ricotta me perdoa pela definição porca também). Mas a idéia é
+mais ou menos essa moçada.
+
+CPA: Custo Por Ação, o CPA pode ser usado como custo pra qualquer coisa. Pode ser o custo por
+compra, o custo por lead, enfim, o custo por uma determinada ação. Vocês vão me ouvir falar
+muiito essa expressão aqui, principalmente quando eu quiser falar do teu custo por lead, eu
+vou falar do teu CPA.
+
+CPC: Custo por clique, é quanto custa pra uma pessoa clicar no teu anúncio.
+
+CTR: Click Through Rate, ou traduzindo, taxa de cliques no anúncio. A fórmula do CTR é o número
+de cliques no teu anúncio divididos pelas impressões, que são quantas vezes ele foi visto (cliques/
+impressões). Se o meu anúncio teve 100 cliques e 1000 impressões, quer dizer que eu tive um
+CTR de 10%. Ótimo indicador sobre a qualidade do anúncio.
+
+CPM: Custo por mil impressões, o custo pro teu anúncio ser visto 1000 vezes pelas pessoas.
+Quanto maior a concorrência pra um determinado público, maior o CPM. E quanto menor for o
+tamanho do público, maior também é o CPM, afinal o público é muito restrito e vai ser caro pra
+atingir todo mundo. Então normalmente um CPM alto quer dizer essas duas coisas, muita
+concorrência no leilão ou público muito pequeno.
+“Pedro, o que tu considera um CPM caro?” Depende, cada conta tem o seu CPM. Então tu vai ter
+que comparar o teu CPM com o teu próprio CPM, como eu disse antes, encontrar um padrão e
+depois fazer as comparações.
+
+CPV: Custo por visualização, quanto que custa pra pessoa visualizar o meu vídeo? E é importante
+ressaltar que diferentes ferramentas contam a visualização de maneiras diferentes. Pro Facebook
+uma visualização é contada a partir de 3 segundos do teu vídeo, no Youtube a visualização é
+contabilizada quando a pessoa vê 30 segundos do teu vídeo.
+
+ROI: O ROI basicamente mensura o retorno em cima de toda a tua estratégia. Como é que eu
+calculo o ROI?
+
+ROI = [(Retorno do Investimento – Custo do Investimento) / Custo do Investimento] x 100
+Por exemplo, vendi meu curso e faturei R$ 1.000.000,00. Investi R$ 500.000,00 pra faturar esse
+R$ 1 milhão.
+
+Então: ROI = 1.000.000 - 500.000 = 500.000 / 500.000 = 1 x 100 = 100
+
+Ou seja, tive um ROI de 100%.
+
+
+Lookalike: Público semelhante do Facebook, basicamente eu dou pro Facebook uma amostra
+de público “óh Facebook, tá aqui uma lista dos meus 1000 clientes, acha pessoas parecidas com
+eles”. Aí o público que vai ser gerado a partir dessa amostra que eu dei pro Facebook vai ser o
+meu lookalike.
+
+
+
+

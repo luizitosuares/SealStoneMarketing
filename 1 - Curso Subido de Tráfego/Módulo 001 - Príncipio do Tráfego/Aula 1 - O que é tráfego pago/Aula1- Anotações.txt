@@ -1,0 +1,2 @@
+Um bom gestor de tráfego deve saber coletar e analisar dados de campanhas para otimizar resultados 
+Além disso ele deve ter a capacidade de elaborar teste periódicos para comparar e validar suas hipoteses 
