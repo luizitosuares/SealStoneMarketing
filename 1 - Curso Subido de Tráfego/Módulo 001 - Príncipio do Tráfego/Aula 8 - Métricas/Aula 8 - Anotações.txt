@@ -1,0 +1,56 @@
+Então qual é o primeiro conceito que eu quero que entre na cabeça de vocês?
+
+ O primeiro conceito é: existem métricas principais e existem métricas secundárias, toda vez que tu for rodar
+uma campanha, tu tem que estabelecer qual é a tua métrica principal e qual é a tua métrica
+secundária.
+
+Eu criei um método pra isso, e é um método muito idiota e extremamente simples. O método é
+o seguinte:
+
+No caso eu tô em dúvida sobre qual é a minha métrica principal, cliques ou conversões. Aí eu me
+pergunto, eu prefiro 1000 cliques e 500 conversões ou 800 cliques e 700 conversões?
+“Ah, eu prefiro a opção B, 800 cliques e 700 conversões”.
+Então a tua métrica principal é conversões, pronto.
+
+O seu objetivo de campanha é SEMPRE expressado por uma métrica princial
+
+Quais são as métricas que o Sobral mais usa
+
+CPA - CUSTO/AÇÃO
+CPC - CUSTO/CLIQUE
+CTR - Cliques/impressões - Qualidade e atratividade do anúncio
+CPV - CUSTO/Visualização
+
+Impressões = qnts vezes o seu anuncio apareceu
+
+Alcance - Quantas pessoas únicas você alcançou 
+
+CPM - Custo por mil impressões - ((Custo *1000)/Impressões) - Métrica que depende muito do tamanho de mercado
+
+Frequencia = Impressões/alcance
+
+- Page view
+- Adicionou no CARRINHO
+- Iniate Checkout
+- Compras (purchase)
+
+
+Como funciona um funil de conversão de lead
+
+Impressões 
+CPM - quanto custa aparecer
+
+Cliques 
+CPC - custo por clique no link
+CYR - taxa de pessoas clicando no link
+
+Visualização da página de destino - custo para visualizar a página de destino
+
+Taxa para saber qnts pessoas clicaram mas não entraram na página
+
+Número de conversões - quem olhou a página e realizou a ação
+
+Taxa de conversão da lanfing page - dos que entraram qnts converteram 
+
+
+
