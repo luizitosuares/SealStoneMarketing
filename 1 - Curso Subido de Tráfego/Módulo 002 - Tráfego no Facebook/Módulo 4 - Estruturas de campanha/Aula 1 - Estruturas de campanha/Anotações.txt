@@ -1,0 +1,20 @@
+Campanhas - 
+Objetivo e Orçamento 
+
+Conjunto de anúncios - 
+
+Evento de otimização do conjunto 
+Quando
+Orçamento 
+Público
+Posicionamento (onde)
+Idioma, localização, demograficos 
+Estratégia de lance
+
+Anuncios - O que vai aparecer
+
+
+
+CBO - orçamento campanha (Meta otimiza em que anuncios gastar mais o orçamento)
+
+ABO - orçamento conjunto de anúncio

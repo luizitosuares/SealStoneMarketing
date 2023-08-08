@@ -1,0 +1,7 @@
+Para verificar se foi correto é preciso instalar plug in
+Facebook Pixed Helper
+
+Ele explcia como cria públicos utilizando o pixel e os eventos personalizados
+
+
+

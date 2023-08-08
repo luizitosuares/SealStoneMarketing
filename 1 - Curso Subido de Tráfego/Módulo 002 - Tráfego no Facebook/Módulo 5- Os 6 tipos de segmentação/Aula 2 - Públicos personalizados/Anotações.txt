@@ -1,0 +1,9 @@
+Um doas maiores erros do gestor de tráfego é não atualizar sua lista de videos e email nos públicos
+
+Usamos os publicos personalizados para criarmos janela temporais, ou segmentações de canais
+
+
+
+
+
+

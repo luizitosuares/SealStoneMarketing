@@ -1,0 +1,14 @@
+Pedro explica como instalar e configurar o pixel 
+
+Eventos padrão:
+Page View
+AddToCart
+Purchase
+Lead
+Contact
+
+
+
+Eventos personalizados:
+
+Tem o nome que eu quiser  

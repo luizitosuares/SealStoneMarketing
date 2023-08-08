@@ -1,0 +1,10 @@
+Conversões são formas de personalziar mais ainda os eventos:por exemplo seria possível registrar regras de url e puxar apenas pessoas que ativara m o evento carrinho em uma url especifica como sapatos.
+
+Assim vc saberia quem ativou o evento carrinhgo comprando sapatos
+
+É uma maneira de otimizar campanhas
+
+
+Mensuração de eventos agregados é criar uma hierarquia de eventos para o algoritimo identificar qual evento dar mais importancia de rastreio
+
+
