@@ -1,0 +1,3 @@
+Idade e Gênero sao umas das segmentações mais importantes
+
+Podemos usar o facebook para buscar públicos parecidos com os que buscamos 

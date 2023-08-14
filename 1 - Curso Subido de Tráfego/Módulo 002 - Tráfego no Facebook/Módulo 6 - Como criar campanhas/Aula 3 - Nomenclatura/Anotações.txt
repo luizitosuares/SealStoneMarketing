@@ -1,0 +1,22 @@
+Nomenclatura da ROI
+
+Pois assim vc consegue achar as informações de maneira mais fácil e rápida
+
+
+Campanha:
+{Objetivo} {Evento}
+
+
+Conjunto de Anuncios:
+
+{Posicionamento} nome do público 
+
+
+Ex: 
+
+[Feed] Envolvimento IG - 14D
+
+Anuncios:
+
+Adxx - nome que identifica facilmente o anuncio
+

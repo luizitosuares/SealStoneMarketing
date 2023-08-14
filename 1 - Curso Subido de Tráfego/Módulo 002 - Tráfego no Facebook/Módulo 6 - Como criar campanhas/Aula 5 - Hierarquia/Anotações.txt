@@ -1,0 +1,36 @@
+
+
+Hierarquia de conjuntos de anúncios e exclusões
+
+Uma das coisas mais importantes do gestor de tráfego é saber organizar seus públicos em diferentes conjuntos de anúncios
+
+
+Separar os públicos em conjuntos de anúncios nos permite saber melhor os resultados da perfomance do público 
+
+
+Quando a gnt separa os públicos em diferentes CA ?
+
+1 - POSICIONAMENTOS DIFERENTES COM ANUNCIOS DIFERENTES POR POSICIONAMENTO 
+
+Ex: 00 - [Stories] Cadastro na live - anúncio vertical
+
+00 - [Feed] Cadastro na live - anúncio horizontal
+
+2 - Garantir um valor gastos em um determinado público
+
+3 - Públicos com níveis de aquecimento diferentes
+
+4 - Anúncios especificos para determinado público 
+
+
+Quando a gnt une os públicos ?
+
+1 - Verba muito pequena 
+
+2 - Segmentação muito pequena (Qnd o facebook n gasta o orçamento com o público, por ele ser muito pequeno)
+
+3 - Públicos muito parecidos 
+
+4 - Conjuntos de anúncios não gastam dinheiro
+
+5 - Limites de anúncios por página (diretrizes da plataforma )

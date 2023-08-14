@@ -1,0 +1,5 @@
+Perguntar para paçoca se ele ja testa esse tipo de controle 
+
+Limite de frequencia - podemos controlar qnts vezes o anúncio aparece para a pessoa.
+
+
