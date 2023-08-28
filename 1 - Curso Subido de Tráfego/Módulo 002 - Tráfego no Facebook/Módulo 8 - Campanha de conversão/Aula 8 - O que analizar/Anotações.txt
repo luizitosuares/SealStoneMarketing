@@ -1,1 +1,15 @@
 Otimização - O que analisar ?
+
+Metricas primarias para analisar
+
+Quantidade de conversões
+custo por conversão 
+
+Métricas secundárias 
+
+Impressão (CPM)
+CTR - Taxa das pessoas que clica no anúncio
+Clique (CPC)
+Landing Page Views (CPLP)
+
+
